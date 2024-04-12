@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20깃허브%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20안녕하세요%20&height=200&fontSize=50&fontColor=FF00FF&textBg=true&animation=scaleIn)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=SSUMINIs)](https://github.com/SSMINIs)
 
